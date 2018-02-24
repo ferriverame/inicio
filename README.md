@@ -1,2 +1,2 @@
-# pw-02
+# Plantilla con Bootstrap
 Maria Fernanda Rivera Mendoza 00266506
